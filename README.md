@@ -1,3 +1,4 @@
+<img width="1280" height="720" alt="Staffing tool" src="https://github.com/user-attachments/assets/129d1978-c25d-4a5d-aafa-98015ccab67f" />
 # Staffing Request Approval System
 
 A Microsoft Power Automate solution that streamlines staffing request approvals for regional courts and corporate headquarters, transforming inefficient manual processes into an automated, transparent workflow.
